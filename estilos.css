@@ -99,3 +99,18 @@ header .textos-header h2{
 .imagen-sobre-mi-perfil{
     width: 48%;
 }
+
+
+.contenedor-logros{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+
+.imagen-sobre-mis-logros{
+    width: 48%;
+    height: 250px;
+
+}
