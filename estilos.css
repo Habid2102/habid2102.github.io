@@ -88,8 +88,14 @@ p {
 }
 
 img {
-    width: 100px;
-    text-align: center;
+  padding: auto;
+  width: 100px;
+  margin-top: 25px;
+  margin-bottom: 1px;
+  margin-left: 80px;
+  margin-right: 70px;
+
+    
     
 }
 
@@ -104,7 +110,7 @@ ul{
 }
 
 .pie{
-    text-align:right;
+    text-align:center;
     padding: 30px 50px 0 0;
 
 }
