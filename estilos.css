@@ -109,6 +109,7 @@ img {
   margin-bottom: 1px;
   margin-left: 80px;
   margin-right: 70px;
+  
 
     
     
@@ -136,96 +137,10 @@ ul{
     text-decoration: none;
     margin-right: 10px;
 
-}
+};
 
 .pie > a:hover{
     color:yellow;
     text-decoration: underline;
       
-}
-
-
-
-/*
-
-
-.contenedor{
-    padding: 60px 0;
-    width: 90%;
-    max-width: 1000px;
-    margin: auto;
-    overflow: hidden;
-    
-}
-
-
-.titulo{
-    color: #4A00E0;
-    font-size: 30px;
-    text-align: center;
-    margin-bottom: 60px;
-}
-
-
-/*header*/
-/* 
-
-
-}
-   
-
-
-
-header .textos-header{
-    display: flex;
-    height: 430px;
-    width: 100%;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-
-}
-
-header .textos-header h1{
-    font-size: 50px;
-    color: aliceblue;
-}
-
-header .textos-header h2{
-    font-size: 20px;
-    font-weight: 300;
-    color: aliceblue;
-}
-
-.wave{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-}
-
-.contenedor-mi-perfil{
-    display: flex;
-    justify-content: space-evenly;
-
-    
-}
-
-.imagen-sobre-mi-perfil{
-    width: 48%;
-}
-
-
-.contenedor-logros{
-    display: flex;
-    justify-content: space-evenly;
-
-
-}
-
-
-.imagen-sobre-mis-logros{
-    width: 48%;
-    height: 250px;
-
-}
+};
