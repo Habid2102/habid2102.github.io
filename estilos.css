@@ -89,6 +89,7 @@ h2 {
 
 
 p {
+    position: relative;
     color: gray;
     font-size:x-large;
     margin-bottom: 30px;
